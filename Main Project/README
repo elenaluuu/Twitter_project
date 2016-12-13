@@ -1,0 +1,3 @@
+This is the main part of VS project.
+Including json file, RDS file, Rscript(can be compiled) and final report
+Excluding shiny app, can be found in the shiny folder
